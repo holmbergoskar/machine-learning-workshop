@@ -9,11 +9,16 @@
 
 ## 2. TRAIN MODEL
 
-* "activate workshop" / "source activate workshop" on linux
-* "jupyter notebook"
-* go into keras_iis.ipynb
+* In terminal: 
+    * activate workshop / source activate workshop on linux/macOS
+    * jupyter notebook
+* go into keras_iris.ipynb in browser
 
 ## 3. Exit environment
-* "deactivate workshop"
+* In terminal:
+    * deactivate workshop
+
+* Remove environment:
+    * conda env remove --name workshop
 
 
